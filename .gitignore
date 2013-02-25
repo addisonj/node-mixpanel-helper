@@ -1,0 +1,12 @@
+node_modules/
+public/css/main.css
+.DS_Store
+public/build.txt
+.ggg/_main.js
+app.js
+control/*.js
+model/*.js
+*.tmproj
+.idea/*
+build
+metrics/results/*.csv

@@ -1,0 +1,19 @@
+{
+  "name": "mixpanel-helper",
+  "version": "0.0.0",
+  "description": "A small util for building mixpanel urls with auth signatures",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "coffee -c lib/*.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/addisonj/mixpanel-helper"
+  },
+  "keywords": [
+    "mixpanel"
+  ],
+  "author": "addisonj",
+  "license": "MIT"
+}
